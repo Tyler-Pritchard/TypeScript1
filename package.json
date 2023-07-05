@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-ts": "^6.0.1",
+    "rimraf": "^5.0.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
